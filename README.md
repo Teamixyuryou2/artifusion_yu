@@ -1,3 +1,16 @@
+# 🎨 Artifusion - AI-based Art and Music Generation Platform
+
+**Check out my project, [Artifusion on Devpost](https://devpost.com/software/artifusion-y9d5h3)!**  
+Artifusion is an innovative AI-powered platform that blends art and music, offering a seamless and immersive creative experience.
+
+🔗 **[Explore the project on Devpost](https://devpost.com/software/artifusion-y9d5h3)**  
+💡 **Why Artifusion?**  
+- **Generates unique artworks and compositions** using AI  
+- **Interactive interface** for easy user engagement  
+- **Cross-platform compatibility** for diverse accessibility  
+
+⭐ If you like the project, please **give it a star** and leave your thoughts! 🌟
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
